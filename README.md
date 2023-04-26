@@ -1,3 +1,3 @@
-docs: https://www.npmjs.com/package/react-markdown
-install: https://www.markdownguide.org/cheat-sheet/
+install: https://www.npmjs.com/package/react-markdown
+docs: https://www.markdownguide.org/cheat-sheet/
 
